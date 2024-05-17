@@ -1,0 +1,10 @@
+echo "# Ops102Lab02" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/MRandle02/Ops102Lab02.git
+git push -u origin main
+
+
+https://docs.google.com/document/d/1yQ7N5Ph9IW5oHFaNcuAwwuvtLuxoYiWd6k7orX10vlY/edit?usp=sharing
